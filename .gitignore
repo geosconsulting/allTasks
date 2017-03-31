@@ -102,7 +102,3 @@ ENV/
 .idea/modules.xml
 .idea/test_vari.iml
 .idea/workspace.xml
-decoratori_classi/
-logging/
-py_test_tutorial/
-vari/
