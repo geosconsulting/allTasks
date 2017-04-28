@@ -28,3 +28,14 @@ ch.setFormatter(formatter)
 logger.addHandler(ch)
 
 logger.debug('This is a test log message.')
+
+
+
+
+module_logger = logging.getLogger("main.otherMod3_FLA")
+
+
+# ----------------------------------------------------------------------
+def add(x, y):
+    """"""
+logger = logging.getLogger("main.otherMod3_FLA.add")
